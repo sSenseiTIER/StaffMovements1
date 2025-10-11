@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2025-10-11T17:12:35.078298",
-    "total_movements": 1
+    "last_updated": "2025-10-11T17:52:21.570313",
+    "total_movements": 2
   },
   "movements": [
+    {
+      "id": 2,
+      "timestamp": "2025-10-11T17:52:21.570303",
+      "user": {
+        "id": "826586739862405140",
+        "name": "Mod | mMoti"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 1,
       "timestamp": "2025-10-11T17:12:35.078287",
