@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2025-10-11T17:52:21.570313",
-    "total_movements": 2
+    "last_updated": "2025-10-11T17:52:26.146080",
+    "total_movements": 3
   },
   "movements": [
+    {
+      "id": 3,
+      "timestamp": "2025-10-11T17:52:26.146065",
+      "user": {
+        "id": "826586739862405140",
+        "name": "Mod | mMoti"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | Ma abrime porfa"
+      }
+    },
     {
       "id": 2,
       "timestamp": "2025-10-11T17:52:21.570303",
