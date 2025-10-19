@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2025-10-17T18:41:21.143604",
-    "total_movements": 4
+    "last_updated": "2025-10-19T21:44:38.237379",
+    "total_movements": 5
   },
   "movements": [
+    {
+      "id": 5,
+      "timestamp": "2025-10-19T21:44:38.237362",
+      "user": {
+        "id": "1191393464349372540",
+        "name": "zh2"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 4,
       "timestamp": "2025-10-17T18:41:21.143587",
