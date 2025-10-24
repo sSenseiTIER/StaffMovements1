@@ -2,65 +2,46 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2025-10-23T02:44:46.850184",
-    "total_movements": 6
+    "last_updated": "2025-10-24T23:31:32.427312",
+    "total_movements": 5
   },
   "movements": [
     {
-      "id": 6,
-      "timestamp": "2025-10-23T02:44:46.850164",
-      "user": {
-        "id": "1232054387564875791",
-        "name": "ilovecats 🐈"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
-      },
-      "modality": "sword",
-      "reason": "Promote manual a Helper",
-      "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
-      }
-    },
-    {
       "id": 5,
-      "timestamp": "2025-10-19T21:44:38.237362",
+      "timestamp": "2025-10-24T23:31:32.427298",
       "user": {
-        "id": "1191393464349372540",
-        "name": "zh2"
+        "id": "1325575871808933898",
+        "name": "Helper | Eduar"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "sword",
-      "reason": "Promote manual a Helper",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
       "id": 4,
-      "timestamp": "2025-10-17T18:41:21.143587",
+      "timestamp": "2025-10-23T02:13:32.864917",
       "user": {
-        "id": "1327802828311498783",
-        "name": "aserrt :3"
+        "id": "1343637414023004220",
+        "name": "Helper | @for help"
       },
       "movement": {
         "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "sword",
-      "reason": "Promote manual a Helper",
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
       }
     },
     {
