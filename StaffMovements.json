@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2025-10-25T20:03:02.325135",
-    "total_movements": 10
+    "last_updated": "2025-10-25T20:05:20.248513",
+    "total_movements": 11
   },
   "movements": [
+    {
+      "id": 11,
+      "timestamp": "2025-10-25T20:05:20.248496",
+      "user": {
+        "id": "1418836026381832233",
+        "name": "PerfumeArabe"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 10,
       "timestamp": "2025-10-25T20:03:02.325120",
