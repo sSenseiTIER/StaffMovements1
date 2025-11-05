@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-01T01:17:58.106989",
-    "last_updated": "2025-11-05T21:44:38.700567",
-    "total_movements": 4
+    "last_updated": "2025-11-05T21:45:09.858935",
+    "total_movements": 5
   },
   "movements": [
+    {
+      "id": 5,
+      "timestamp": "2025-11-05T21:45:09.858911",
+      "user": {
+        "id": "1418836026381832233",
+        "name": "SA | NoSolote"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Degradación manual por glamsillo_",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 4,
       "timestamp": "2025-11-05T21:44:38.700545",
