@@ -2,27 +2,84 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-11-16T18:44:16.794199",
-    "total_movements": 5
+    "last_updated": "2025-11-16T18:55:08.348926",
+    "total_movements": 8
   },
   "movements": [
     {
-      "id": 5,
-      "timestamp": "2025-11-16T18:44:16.794178",
+      "id": 8,
+      "timestamp": "2025-11-16T18:55:08.348904",
       "user": {
-        "id": "892451118653775872",
-        "name": "jatho"
+        "id": "1047279643272695828",
+        "name": "SA | blackoxyz"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Degradación manual por glamsillo_",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": "2025-11-16T01:05:16.576125",
+      "user": {
+        "id": "1355832417717456957",
+        "name": "yCaaponee_"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "vanilla",
+      "modality": "sword",
       "reason": "Promote manual a Verified Tester",
       "executor": {
         "id": "834555196541108246",
         "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-11-15T23:58:07.130512",
+      "user": {
+        "id": "1390050039870787615",
+        "name": "d"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": "2025-11-15T23:38:50.613774",
+      "user": {
+        "id": "1423740681758965830",
+        "name": "𝐇𝐚𝐢𝐬𝐞"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Degradación manual por glamsillo_",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
