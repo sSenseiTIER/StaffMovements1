@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-11-16T18:55:08.348926",
-    "total_movements": 8
+    "last_updated": "2025-11-17T16:34:40.981606",
+    "total_movements": 9
   },
   "movements": [
+    {
+      "id": 9,
+      "timestamp": "2025-11-17T16:34:40.981578",
+      "user": {
+        "id": "976163381679624212",
+        "name": "EU | darexpo"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1327802828311498783",
+        "name": "Regulator | aserrt"
+      }
+    },
     {
       "id": 8,
       "timestamp": "2025-11-16T18:55:08.348904",
