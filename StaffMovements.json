@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-11-18T01:05:25.824451",
-    "total_movements": 6
+    "last_updated": "2025-11-19T01:56:52.849917",
+    "total_movements": 7
   },
   "movements": [
+    {
+      "id": 7,
+      "timestamp": "2025-11-19T01:56:52.849897",
+      "user": {
+        "id": "1389049520704327901",
+        "name": "Haze  | @ For Help"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "Staff Member",
+        "new_role": "Verified Tester"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
+      "executor": {
+        "id": "system",
+        "name": "Sistema"
+      }
+    },
     {
       "id": 6,
       "timestamp": "2025-11-18T01:05:25.824431",
