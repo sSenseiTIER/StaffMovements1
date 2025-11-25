@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-11-23T22:54:47.568579",
-    "total_movements": 11
+    "last_updated": "2025-11-25T19:01:42.463350",
+    "total_movements": 12
   },
   "movements": [
+    {
+      "id": 12,
+      "timestamp": "2025-11-25T19:01:42.463332",
+      "user": {
+        "id": "1078031020630224910",
+        "name": "Andrew"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis @ For Help"
+      }
+    },
     {
       "id": 11,
       "timestamp": "2025-11-23T22:54:47.568565",
