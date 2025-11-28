@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-11-26T22:38:48.475238",
-    "total_movements": 13
+    "last_updated": "2025-11-28T00:04:45.986543",
+    "total_movements": 14
   },
   "movements": [
+    {
+      "id": 14,
+      "timestamp": "2025-11-28T00:04:45.986527",
+      "user": {
+        "id": "936042255599415307",
+        "name": "NA | Styffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 13,
       "timestamp": "2025-11-26T22:38:48.475222",
