@@ -2,103 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-05T03:13:17.178081",
-    "total_movements": 16
+    "last_updated": "2025-12-05T14:11:54.740290",
+    "total_movements": 12
   },
   "movements": [
     {
-      "id": 16,
-      "timestamp": "2025-12-05T03:13:17.178063",
+      "id": 12,
+      "timestamp": "2025-12-05T14:11:54.740275",
       "user": {
-        "id": "936042255599415307",
-        "name": "NA | Styffy"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Head Tester",
-      "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
-      }
-    },
-    {
-      "id": 15,
-      "timestamp": "2025-11-28T00:05:02.186321",
-      "user": {
-        "id": "936042255599415307",
-        "name": "NA | Styffy"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Verified Tester",
-      "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
-      }
-    },
-    {
-      "id": 14,
-      "timestamp": "2025-11-28T00:04:45.986527",
-      "user": {
-        "id": "936042255599415307",
-        "name": "NA | Styffy"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Helper",
-      "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
-      }
-    },
-    {
-      "id": 13,
-      "timestamp": "2025-11-26T22:38:48.475222",
-      "user": {
-        "id": "1247376641949175901",
-        "name": "Tennese @ 4help"
+        "id": "670534819536699395",
+        "name": "EU | SandraConFe"
       },
       "movement": {
         "type": "demote",
-        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "vanilla",
-      "reason": "Degradación manual por tiliwilis",
+      "modality": "sword",
+      "reason": "Degradación manual por arcrtdev",
       "executor": {
         "id": "System",
         "name": "AutoDemote"
-      }
-    },
-    {
-      "id": 12,
-      "timestamp": "2025-11-25T19:01:42.463332",
-      "user": {
-        "id": "1078031020630224910",
-        "name": "Andrew"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Verified Tester",
-      "executor": {
-        "id": "1068594443441164328",
-        "name": "Tiliwilis @ For Help"
       }
     },
     {
