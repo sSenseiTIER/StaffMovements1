@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-05T21:43:39.245337",
-    "total_movements": 17
+    "last_updated": "2025-12-05T21:45:24.678578",
+    "total_movements": 18
   },
   "movements": [
+    {
+      "id": 18,
+      "timestamp": "2025-12-05T21:45:24.678561",
+      "user": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "🟡 ᴍᴀɴᴀɢᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Screensharer",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
     {
       "id": 17,
       "timestamp": "2025-12-05T21:43:39.245316",
