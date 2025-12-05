@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-05T14:17:40.141204",
-    "total_movements": 16
+    "last_updated": "2025-12-05T14:18:46.121698",
+    "total_movements": 17
   },
   "movements": [
+    {
+      "id": 17,
+      "timestamp": "2025-12-05T14:18:46.121662",
+      "user": {
+        "id": "1367909617039970406",
+        "name": "NA/SA | olfd"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Degradación manual por arcrtdev",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 16,
       "timestamp": "2025-12-05T14:17:40.141188",
