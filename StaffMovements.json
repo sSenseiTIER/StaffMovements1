@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-07T02:43:37.765019",
-    "total_movements": 20
+    "last_updated": "2025-12-07T02:52:04.984460",
+    "total_movements": 21
   },
   "movements": [
+    {
+      "id": 21,
+      "timestamp": "2025-12-07T02:52:04.984438",
+      "user": {
+        "id": "936042255599415307",
+        "name": "NA | Styffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por glamsillo_",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 20,
       "timestamp": "2025-12-07T02:43:37.765006",
