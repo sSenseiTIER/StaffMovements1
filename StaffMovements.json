@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-10T15:55:21.876244",
-    "total_movements": 19
+    "last_updated": "2025-12-10T16:18:19.803999",
+    "total_movements": 20
   },
   "movements": [
+    {
+      "id": 20,
+      "timestamp": "2025-12-10T16:18:19.803988",
+      "user": {
+        "id": "808346067317162015",
+        "name": "Guild Manager"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1327802828311498783",
+        "name": "Regulator | aserrt"
+      }
+    },
     {
       "id": 19,
       "timestamp": "2025-12-10T15:55:21.876231",
