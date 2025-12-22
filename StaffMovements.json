@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-22T03:26:32.893113",
-    "total_movements": 42
+    "last_updated": "2025-12-22T06:00:24.840797",
+    "total_movements": 43
   },
   "movements": [
+    {
+      "id": 43,
+      "timestamp": "2025-12-22T06:00:24.840778",
+      "user": {
+        "id": "1008163311306670112",
+        "name": "gnarled"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis @ For Help"
+      }
+    },
     {
       "id": 42,
       "timestamp": "2025-12-22T03:26:32.893094",
