@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-22T06:00:24.840797",
-    "total_movements": 43
+    "last_updated": "2025-12-22T17:32:14.576249",
+    "total_movements": 44
   },
   "movements": [
+    {
+      "id": 44,
+      "timestamp": "2025-12-22T17:32:14.576233",
+      "user": {
+        "id": "1008163311306670112",
+        "name": "gnarled"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 43,
       "timestamp": "2025-12-22T06:00:24.840778",
