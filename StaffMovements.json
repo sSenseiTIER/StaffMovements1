@@ -2,46 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-26T04:41:15.994982",
-    "total_movements": 52
+    "last_updated": "2025-12-26T05:29:54.804564",
+    "total_movements": 51
   },
   "movements": [
     {
-      "id": 52,
-      "timestamp": "2025-12-26T04:41:15.994966",
-      "user": {
-        "id": "823659261183262730",
-        "name": "Dev | ma abrime porf"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "Staff Member",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Degradación manual por vayju",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
-      }
-    },
-    {
       "id": 51,
-      "timestamp": "2025-12-26T02:55:16.207088",
+      "timestamp": "2025-12-26T05:29:54.804482",
       "user": {
-        "id": "952028006614982706",
-        "name": "@for test NA | zRuss_"
+        "id": "513195575525638149",
+        "name": "lug_navideña"
       },
       "movement": {
-        "type": "demote",
-        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
       },
-      "modality": "vanilla",
-      "reason": "Degradación manual por kryio",
+      "modality": "sword",
+      "reason": "Promote manual a Discord Mod",
       "executor": {
-        "id": "System",
-        "name": "AutoDemote"
+        "id": "1311116434604294244",
+        "name": "!Bigcuts"
       }
     },
     {
