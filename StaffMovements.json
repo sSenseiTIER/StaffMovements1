@@ -2,27 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-26T05:29:54.804564",
+    "last_updated": "2025-12-27T04:51:46.482638",
     "total_movements": 51
   },
   "movements": [
     {
       "id": 51,
-      "timestamp": "2025-12-26T05:29:54.804482",
+      "timestamp": "2025-12-27T04:51:46.482617",
       "user": {
-        "id": "513195575525638149",
-        "name": "lug_navideña"
+        "id": "737430159484780656",
+        "name": "NA Luaar"
       },
       "movement": {
-        "type": "promote",
+        "type": "demote",
         "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "sword",
-      "reason": "Promote manual a Discord Mod",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "1311116434604294244",
-        "name": "!Bigcuts"
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
