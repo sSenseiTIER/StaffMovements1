@@ -2,42 +2,23 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2025-12-29T00:48:30.788866",
-    "total_movements": 54
+    "last_updated": "2025-12-29T00:49:08.888469",
+    "total_movements": 53
   },
   "movements": [
     {
-      "id": 54,
-      "timestamp": "2025-12-29T00:48:30.788845",
+      "id": 53,
+      "timestamp": "2025-12-29T00:49:08.888454",
       "user": {
         "id": "1327802828311498783",
         "name": "aserrt"
       },
       "movement": {
         "type": "demote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por vayju",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
-      }
-    },
-    {
-      "id": 53,
-      "timestamp": "2025-12-28T02:29:23.324934",
-      "user": {
-        "id": "1212418962717941771",
-        "name": "Mod | Sweky"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "netherite_pot",
+      "modality": "vanilla",
       "reason": "Degradación manual por vayju",
       "executor": {
         "id": "System",
@@ -46,18 +27,18 @@
     },
     {
       "id": 52,
-      "timestamp": "2025-12-27T18:34:44.028155",
+      "timestamp": "2025-12-26T04:41:15.994966",
       "user": {
-        "id": "1390050039870787615",
-        "name": "d"
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
       },
       "movement": {
         "type": "demote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "old_role": "Staff Member",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
       "executor": {
         "id": "System",
         "name": "AutoDemote"
@@ -65,18 +46,18 @@
     },
     {
       "id": 51,
-      "timestamp": "2025-12-27T04:51:46.482617",
+      "timestamp": "2025-12-26T02:55:16.207088",
       "user": {
-        "id": "737430159484780656",
-        "name": "NA Luaar"
+        "id": "952028006614982706",
+        "name": "@for test NA | zRuss_"
       },
       "movement": {
         "type": "demote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "modality": "vanilla",
+      "reason": "Degradación manual por kryio",
       "executor": {
         "id": "System",
         "name": "AutoDemote"
