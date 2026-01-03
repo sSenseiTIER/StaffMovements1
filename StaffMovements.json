@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-02T22:40:35.159467",
-    "total_movements": 55
+    "last_updated": "2026-01-03T02:26:20.975477",
+    "total_movements": 56
   },
   "movements": [
+    {
+      "id": 56,
+      "timestamp": "2026-01-03T02:26:20.975461",
+      "user": {
+        "id": "902216787557494834",
+        "name": "Mati"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis | No Tag, Vacations"
+      }
+    },
     {
       "id": 55,
       "timestamp": "2026-01-02T22:40:35.159446",
