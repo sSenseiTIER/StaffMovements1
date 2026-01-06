@@ -2,84 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-06T03:45:06.546201",
-    "total_movements": 61
+    "last_updated": "2026-01-06T03:48:04.023983",
+    "total_movements": 58
   },
   "movements": [
     {
-      "id": 61,
-      "timestamp": "2026-01-06T03:45:06.546145",
+      "id": 58,
+      "timestamp": "2026-01-06T03:48:04.023959",
       "user": {
-        "id": "952028006614982706",
-        "name": "᲼"
+        "id": "1008134399298130000",
+        "name": "_ImGalaX"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ"
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "vanilla",
-      "reason": "Promote manual a Senior Tester",
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
       "executor": {
         "id": "834555196541108246",
         "name": "AtKyrie"
-      }
-    },
-    {
-      "id": 60,
-      "timestamp": "2026-01-06T03:32:00.027020",
-      "user": {
-        "id": "764568397388054549",
-        "name": "sigmawwo"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
-        "new_role": "🟢 ʀᴇɢᴜʟᴀᴛᴏʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Regulator",
-      "executor": {
-        "id": "1068594443441164328",
-        "name": "Tiliwilis"
-      }
-    },
-    {
-      "id": 59,
-      "timestamp": "2026-01-06T03:31:26.463508",
-      "user": {
-        "id": "764568397388054549",
-        "name": "li'l d"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Discord Mod",
-      "executor": {
-        "id": "1068594443441164328",
-        "name": "Tiliwilis"
-      }
-    },
-    {
-      "id": 58,
-      "timestamp": "2026-01-06T03:02:02.229851",
-      "user": {
-        "id": "1068594443441164328",
-        "name": "Tiliwilis"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Degradación manual por vayju",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
       }
     },
     {
