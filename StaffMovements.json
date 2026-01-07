@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-06T18:16:05.718768",
-    "total_movements": 64
+    "last_updated": "2026-01-07T19:30:03.499276",
+    "total_movements": 65
   },
   "movements": [
+    {
+      "id": 65,
+      "timestamp": "2026-01-07T19:30:03.499254",
+      "user": {
+        "id": "1297616580787834911",
+        "name": "toti"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 64,
       "timestamp": "2026-01-06T18:16:05.718642",
