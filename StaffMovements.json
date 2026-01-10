@@ -2,27 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-07T19:30:03.499276",
+    "last_updated": "2026-01-10T01:08:17.345615",
     "total_movements": 65
   },
   "movements": [
     {
       "id": 65,
-      "timestamp": "2026-01-07T19:30:03.499254",
+      "timestamp": "2026-01-10T01:08:17.345593",
       "user": {
-        "id": "1297616580787834911",
-        "name": "toti"
+        "id": "513195575525638149",
+        "name": "Helper | wave to earth"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "sword",
-      "reason": "Promote manual a Verified Tester",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
