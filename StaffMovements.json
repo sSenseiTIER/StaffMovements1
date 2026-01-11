@@ -2,27 +2,46 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-10T01:08:17.345615",
-    "total_movements": 65
+    "last_updated": "2026-01-11T16:14:36.824133",
+    "total_movements": 66
   },
   "movements": [
     {
-      "id": 65,
-      "timestamp": "2026-01-10T01:08:17.345593",
+      "id": 66,
+      "timestamp": "2026-01-11T16:14:36.824109",
       "user": {
-        "id": "513195575525638149",
-        "name": "Helper | wave to earth"
+        "id": "1191393464349372540",
+        "name": "zh2"
       },
       "movement": {
         "type": "demote",
         "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "modality": "sword",
+      "reason": "Degradación manual por vayju",
       "executor": {
         "id": "System",
         "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 65,
+      "timestamp": "2026-01-07T19:30:03.499254",
+      "user": {
+        "id": "1297616580787834911",
+        "name": "toti"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
       }
     },
     {
