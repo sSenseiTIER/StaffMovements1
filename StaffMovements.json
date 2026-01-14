@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-11T19:15:24.474575",
-    "total_movements": 62
+    "last_updated": "2026-01-14T01:36:08.284472",
+    "total_movements": 63
   },
   "movements": [
+    {
+      "id": 63,
+      "timestamp": "2026-01-14T01:36:08.284447",
+      "user": {
+        "id": "1356672328506933261",
+        "name": "alylly"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🟢 ʀᴇɢᴜʟᴀᴛᴏʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Regulator",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis"
+      }
+    },
     {
       "id": 62,
       "timestamp": "2026-01-11T19:15:24.474553",
