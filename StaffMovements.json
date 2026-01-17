@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-17T02:11:41.003072",
-    "total_movements": 67
+    "last_updated": "2026-01-17T03:33:49.220389",
+    "total_movements": 68
   },
   "movements": [
+    {
+      "id": 68,
+      "timestamp": "2026-01-17T03:33:49.220376",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Mod | Stylez_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
     {
       "id": 67,
       "timestamp": "2026-01-17T02:11:41.003048",
