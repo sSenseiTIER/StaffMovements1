@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-01-31T13:16:43.886360",
-    "total_movements": 64
+    "last_updated": "2026-02-01T12:58:58.718178",
+    "total_movements": 65
   },
   "movements": [
+    {
+      "id": 65,
+      "timestamp": "2026-02-01T12:58:58.718140",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "1232054387564875791",
+        "name": "Jul | @ for help !"
+      }
+    },
     {
       "id": 64,
       "timestamp": "2026-01-31T13:16:43.886336",
