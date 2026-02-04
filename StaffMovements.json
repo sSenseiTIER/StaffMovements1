@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-04T01:25:21.180218",
-    "total_movements": 84
+    "last_updated": "2026-02-04T01:25:32.023092",
+    "total_movements": 85
   },
   "movements": [
+    {
+      "id": 85,
+      "timestamp": "2026-02-04T01:25:32.023080",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
     {
       "id": 84,
       "timestamp": "2026-02-04T01:25:21.180205",
