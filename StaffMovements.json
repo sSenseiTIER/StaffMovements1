@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-04T01:53:00.947724",
-    "total_movements": 91
+    "last_updated": "2026-02-04T01:56:11.489739",
+    "total_movements": 92
   },
   "movements": [
+    {
+      "id": 92,
+      "timestamp": "2026-02-04T01:56:11.489723",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 91,
       "timestamp": "2026-02-04T01:53:00.947703",
