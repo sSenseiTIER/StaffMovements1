@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-09T05:11:22.602458",
-    "total_movements": 95
+    "last_updated": "2026-02-09T06:21:49.602608",
+    "total_movements": 96
   },
   "movements": [
+    {
+      "id": 96,
+      "timestamp": "2026-02-09T06:21:49.602586",
+      "user": {
+        "id": "1151676284238315631",
+        "name": "Mod | donluchooo"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "🟢 ʀᴇɢᴜʟᴀᴛᴏʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Regulator",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "!Bigcuts"
+      }
+    },
     {
       "id": 95,
       "timestamp": "2026-02-09T05:11:22.602435",
