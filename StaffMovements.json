@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-09T06:21:49.602608",
-    "total_movements": 96
+    "last_updated": "2026-02-10T00:59:27.894828",
+    "total_movements": 97
   },
   "movements": [
+    {
+      "id": 97,
+      "timestamp": "2026-02-10T00:59:27.894806",
+      "user": {
+        "id": "1068176044789612604",
+        "name": "NA | IlcveYouV Only NA"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Degradación manual por donluchooo",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 96,
       "timestamp": "2026-02-09T06:21:49.602586",
