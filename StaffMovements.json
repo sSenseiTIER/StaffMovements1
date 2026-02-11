@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-11T00:46:36.353172",
-    "total_movements": 98
+    "last_updated": "2026-02-11T00:48:52.756409",
+    "total_movements": 99
   },
   "movements": [
+    {
+      "id": 99,
+      "timestamp": "2026-02-11T00:48:52.756391",
+      "user": {
+        "id": "1008921043479568424",
+        "name": "Nesquikx1"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1151676284238315631",
+        "name": "Regulator | donluchooo"
+      }
+    },
     {
       "id": 98,
       "timestamp": "2026-02-11T00:46:36.353155",
