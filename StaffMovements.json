@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-13T20:40:21.573241",
-    "total_movements": 102
+    "last_updated": "2026-02-13T23:30:35.160778",
+    "total_movements": 103
   },
   "movements": [
+    {
+      "id": 103,
+      "timestamp": "2026-02-13T23:30:35.160755",
+      "user": {
+        "id": "1061029076862775407",
+        "name": "RonaldZav"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
     {
       "id": 102,
       "timestamp": "2026-02-13T20:40:21.573226",
