@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-18T06:58:42.540888",
-    "total_movements": 105
+    "last_updated": "2026-02-21T21:55:54.928913",
+    "total_movements": 106
   },
   "movements": [
+    {
+      "id": 106,
+      "timestamp": "2026-02-21T21:55:54.928897",
+      "user": {
+        "id": "1441248941009145946",
+        "name": "Mod | Sebax"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por hiragaaa._",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 105,
       "timestamp": "2026-02-18T06:58:42.540854",
