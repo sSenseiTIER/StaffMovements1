@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-21T21:55:54.928913",
-    "total_movements": 106
+    "last_updated": "2026-02-23T02:18:18.612465",
+    "total_movements": 107
   },
   "movements": [
+    {
+      "id": 107,
+      "timestamp": "2026-02-23T02:18:18.612447",
+      "user": {
+        "id": "1015388131643629668",
+        "name": "Keskloa"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Senior Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "SA | Vayju"
+      }
+    },
     {
       "id": 106,
       "timestamp": "2026-02-21T21:55:54.928897",
