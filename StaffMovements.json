@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-23T04:44:17.469771",
-    "total_movements": 116
+    "last_updated": "2026-02-23T23:34:33.850787",
+    "total_movements": 117
   },
   "movements": [
+    {
+      "id": 117,
+      "timestamp": "2026-02-23T23:34:33.850771",
+      "user": {
+        "id": "607752834540371991",
+        "name": "FEDEWAX"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "SA | Vayju"
+      }
+    },
     {
       "id": 116,
       "timestamp": "2026-02-23T04:44:17.469756",
