@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-26T02:20:38.085208",
-    "total_movements": 103
+    "last_updated": "2026-02-26T02:27:16.352761",
+    "total_movements": 104
   },
   "movements": [
+    {
+      "id": 104,
+      "timestamp": "2026-02-26T02:27:16.352738",
+      "user": {
+        "id": "1315703509953413141",
+        "name": "Yatelaestampo_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 103,
       "timestamp": "2026-02-26T02:20:38.085191",
