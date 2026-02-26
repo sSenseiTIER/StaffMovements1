@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-26T02:53:55.267558",
-    "total_movements": 106
+    "last_updated": "2026-02-26T03:02:40.617191",
+    "total_movements": 107
   },
   "movements": [
+    {
+      "id": 107,
+      "timestamp": "2026-02-26T03:02:40.617169",
+      "user": {
+        "id": "1338233804422123653",
+        "name": "PapaJhonsPizza"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 106,
       "timestamp": "2026-02-26T02:53:55.267542",
