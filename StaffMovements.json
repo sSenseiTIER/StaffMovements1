@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-02-27T01:39:23.532380",
-    "total_movements": 128
+    "last_updated": "2026-02-27T19:16:04.910932",
+    "total_movements": 129
   },
   "movements": [
+    {
+      "id": 129,
+      "timestamp": "2026-02-27T19:16:04.910916",
+      "user": {
+        "id": "1180621788707835994",
+        "name": "Helper | iZowekk @ 4 Help"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 128,
       "timestamp": "2026-02-27T01:39:23.532364",
