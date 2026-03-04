@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-03-03T05:37:20.852845",
-    "total_movements": 138
+    "last_updated": "2026-03-04T04:20:46.279961",
+    "total_movements": 139
   },
   "movements": [
+    {
+      "id": 139,
+      "timestamp": "2026-03-04T04:20:46.279941",
+      "user": {
+        "id": "1015388131643629668",
+        "name": "keskloa No laggers"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
     {
       "id": 138,
       "timestamp": "2026-03-03T05:37:20.852830",
