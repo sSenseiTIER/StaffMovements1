@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-03-04T04:20:46.279961",
-    "total_movements": 139
+    "last_updated": "2026-03-05T00:38:20.748343",
+    "total_movements": 140
   },
   "movements": [
+    {
+      "id": 140,
+      "timestamp": "2026-03-05T00:38:20.748322",
+      "user": {
+        "id": "977322307762679888",
+        "name": "A moment"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 139,
       "timestamp": "2026-03-04T04:20:46.279941",
