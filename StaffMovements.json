@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-03-06T03:58:48.363222",
-    "total_movements": 141
+    "last_updated": "2026-03-06T04:29:35.112034",
+    "total_movements": 142
   },
   "movements": [
+    {
+      "id": 142,
+      "timestamp": "2026-03-06T04:29:35.112020",
+      "user": {
+        "id": "1015388131643629668",
+        "name": "NA | keskloa |  No laggers"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1151676284238315631",
+        "name": "Regulator | donluchooo"
+      }
+    },
     {
       "id": 141,
       "timestamp": "2026-03-06T03:58:48.363204",
