@@ -2,46 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-03-06T04:29:35.112034",
-    "total_movements": 142
+    "last_updated": "2026-03-06T23:27:44.412808",
+    "total_movements": 141
   },
   "movements": [
     {
-      "id": 142,
-      "timestamp": "2026-03-06T04:29:35.112020",
-      "user": {
-        "id": "1015388131643629668",
-        "name": "NA | keskloa |  No laggers"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
-      },
-      "modality": "sword",
-      "reason": "Promote manual a Helper",
-      "executor": {
-        "id": "1151676284238315631",
-        "name": "Regulator | donluchooo"
-      }
-    },
-    {
       "id": 141,
-      "timestamp": "2026-03-06T03:58:48.363204",
+      "timestamp": "2026-03-06T23:27:44.412777",
       "user": {
-        "id": "812436396303581204",
-        "name": "katshup_"
+        "id": "1171647808605003816",
+        "name": "SA | R3actly"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "sword",
-      "reason": "Promote manual a Helper",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
