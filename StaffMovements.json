@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-03-07T17:03:31.458010",
-    "total_movements": 142
+    "last_updated": "2026-03-07T17:08:22.188809",
+    "total_movements": 143
   },
   "movements": [
+    {
+      "id": 143,
+      "timestamp": "2026-03-07T17:08:22.188794",
+      "user": {
+        "id": "1008921043479568424",
+        "name": "NA | Nesquik"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Senior Tester",
+      "executor": {
+        "id": "1151676284238315631",
+        "name": "@ for post/questions"
+      }
+    },
     {
       "id": 142,
       "timestamp": "2026-03-07T17:03:31.457998",
