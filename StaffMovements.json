@@ -2,27 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2026-03-14T22:32:28.355614",
+    "last_updated": "2026-03-15T23:50:17.558194",
     "total_movements": 14
   },
   "movements": [
     {
       "id": 14,
-      "timestamp": "2026-03-14T22:32:28.355594",
+      "timestamp": "2026-03-15T23:50:17.558169",
       "user": {
-        "id": "1093732777112907777",
-        "name": "NA | Nicolacaca"
+        "id": "1356672328506933261",
+        "name": "Helper | MaeVal"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "vanilla",
-      "reason": "Promote manual a Discord Mod",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "796531919294169088",
-        "name": "Paulo."
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
