@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2026-04-08T02:42:51.655005",
-    "total_movements": 18
+    "last_updated": "2026-04-08T02:58:25.015968",
+    "total_movements": 19
   },
   "movements": [
+    {
+      "id": 19,
+      "timestamp": "2026-04-08T02:58:25.015945",
+      "user": {
+        "id": "834895377755799572",
+        "name": "skeletromyt 💤"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
     {
       "id": 18,
       "timestamp": "2026-04-08T02:42:51.654980",
