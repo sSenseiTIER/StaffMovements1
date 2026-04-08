@@ -2,23 +2,23 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2026-04-07T03:16:22.959319",
-    "total_movements": 17
+    "last_updated": "2026-04-08T02:32:17.746023",
+    "total_movements": 16
   },
   "movements": [
     {
-      "id": 17,
-      "timestamp": "2026-04-07T03:16:22.959298",
+      "id": 16,
+      "timestamp": "2026-04-08T02:32:17.745988",
       "user": {
-        "id": "1448854195942850617",
-        "name": "."
+        "id": "1086117252455207014",
+        "name": "Tu putopadre"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "sword",
+      "modality": "vanilla",
       "reason": "Promote manual a Verified Tester",
       "executor": {
         "id": "834555196541108246",
@@ -26,8 +26,8 @@
       }
     },
     {
-      "id": 16,
-      "timestamp": "2026-04-07T03:11:28.956254",
+      "id": 15,
+      "timestamp": "2026-04-07T03:10:47.794921",
       "user": {
         "id": "1051620807517945907",
         "name": "Andres"
@@ -37,30 +37,11 @@
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "sword",
+      "modality": "vanilla",
       "reason": "Promote manual a Verified Tester",
       "executor": {
         "id": "834555196541108246",
         "name": "AtKyrie"
-      }
-    },
-    {
-      "id": 15,
-      "timestamp": "2026-04-04T06:08:49.310010",
-      "user": {
-        "id": "1326712304300986378",
-        "name": "Verniqee"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
-      },
-      "modality": "sword",
-      "reason": "Promote manual a Verified Tester",
-      "executor": {
-        "id": "1151676284238315631",
-        "name": "@ for post/questions"
       }
     },
     {
