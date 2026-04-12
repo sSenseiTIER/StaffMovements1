@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-04-12T07:57:37.910814",
-    "total_movements": 136
+    "last_updated": "2026-04-12T15:22:24.809210",
+    "total_movements": 137
   },
   "movements": [
+    {
+      "id": 137,
+      "timestamp": "2026-04-12T15:22:24.809191",
+      "user": {
+        "id": "1151676284238315631",
+        "name": "@ for all"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "796531919294169088",
+        "name": "Paulo."
+      }
+    },
     {
       "id": 136,
       "timestamp": "2026-04-12T07:57:37.910739",
