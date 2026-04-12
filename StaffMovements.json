@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-04-12T06:10:14.361123",
-    "total_movements": 135
+    "last_updated": "2026-04-12T07:57:37.910814",
+    "total_movements": 136
   },
   "movements": [
+    {
+      "id": 136,
+      "timestamp": "2026-04-12T07:57:37.910739",
+      "user": {
+        "id": "1319385012822610000",
+        "name": "disorderliness"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por proddgg",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 135,
       "timestamp": "2026-04-12T06:10:14.361102",
