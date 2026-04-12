@@ -1,17 +1,1005 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2026-04-12T01:08:46.645048",
-    "total_movements": 21
+    "created_at": "2025-11-10T18:58:42.834633",
+    "last_updated": "2026-04-12T06:10:14.361123",
+    "total_movements": 135
   },
   "movements": [
     {
-      "id": 21,
-      "timestamp": "2026-04-12T01:08:46.645022",
+      "id": 135,
+      "timestamp": "2026-04-12T06:10:14.361102",
       "user": {
-        "id": "830189600928038942",
-        "name": "Adri*"
+        "id": "1128073751339208794",
+        "name": "SA-NA | LenguaKil"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por proddgg",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 134,
+      "timestamp": "2026-03-02T21:27:46.350750",
+      "user": {
+        "id": "690205818209304692",
+        "name": "Helper | Jxrabe"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "📹 ꜱᴄʀᴇᴇɴꜱʜᴀʀᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 133,
+      "timestamp": "2026-03-02T21:02:04.246393",
+      "user": {
+        "id": "1459705394711494716",
+        "name": "Helper | Evwvlyn"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "📹 ꜱᴄʀᴇᴇɴꜱʜᴀʀᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 132,
+      "timestamp": "2026-03-02T03:09:51.717907",
+      "user": {
+        "id": "748758994423906354",
+        "name": "NA | Mod | oNxaiety"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 131,
+      "timestamp": "2026-03-02T02:22:28.489701",
+      "user": {
+        "id": "811665078596272159",
+        "name": "Mod | LowKhalih"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 130,
+      "timestamp": "2026-03-01T19:20:22.482907",
+      "user": {
+        "id": "1057812814871412806",
+        "name": "Helper | Boliviano2fps"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 129,
+      "timestamp": "2026-02-27T19:16:04.910916",
+      "user": {
+        "id": "1180621788707835994",
+        "name": "Helper | iZowekk @ 4 Help"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 128,
+      "timestamp": "2026-02-27T01:39:23.532364",
+      "user": {
+        "id": "748758994423906354",
+        "name": "NA / EU | Helper | oNxaiety"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 127,
+      "timestamp": "2026-02-26T23:45:15.288905",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Mod | Stylez_"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 126,
+      "timestamp": "2026-02-26T04:11:19.632223",
+      "user": {
+        "id": "1319385012822610000",
+        "name": "p"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 125,
+      "timestamp": "2026-02-26T02:47:11.735400",
+      "user": {
+        "id": "1459705394711494716",
+        "name": "Gatitadeceecrue"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 124,
+      "timestamp": "2026-02-25T20:05:53.186967",
+      "user": {
+        "id": "1138884625364689037",
+        "name": "Helper | Dylan"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 123,
+      "timestamp": "2026-02-25T15:33:46.922572",
+      "user": {
+        "id": "690205818209304692",
+        "name": "Jxrabe"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "📹 ꜱᴄʀᴇᴇɴꜱʜᴀʀᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 122,
+      "timestamp": "2026-02-25T15:33:24.842275",
+      "user": {
+        "id": "1057812814871412806",
+        "name": "TUKI"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 121,
+      "timestamp": "2026-02-25T04:26:42.253705",
+      "user": {
+        "id": "930903582629302332",
+        "name": "Helper | Huan62"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 120,
+      "timestamp": "2026-02-25T01:44:20.830255",
+      "user": {
+        "id": "1326769063657078784",
+        "name": "Helper | zFrost___"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 119,
+      "timestamp": "2026-02-24T05:02:56.020169",
+      "user": {
+        "id": "1138884625364689037",
+        "name": "Helper | Dylan"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 118,
+      "timestamp": "2026-02-24T04:27:20.231032",
+      "user": {
+        "id": "1326769063657078784",
+        "name": "Helper | zFrost___"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 117,
+      "timestamp": "2026-02-23T23:34:33.850771",
+      "user": {
+        "id": "607752834540371991",
+        "name": "FEDEWAX"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "SA | Vayju"
+      }
+    },
+    {
+      "id": 116,
+      "timestamp": "2026-02-23T04:44:17.469756",
+      "user": {
+        "id": "1128073751339208794",
+        "name": "!"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 115,
+      "timestamp": "2026-02-23T04:43:33.675854",
+      "user": {
+        "id": "1128073751339208794",
+        "name": "!"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 114,
+      "timestamp": "2026-02-23T03:46:43.887230",
+      "user": {
+        "id": "1387953893895307379",
+        "name": "Faussmc"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 113,
+      "timestamp": "2026-02-23T03:46:31.723308",
+      "user": {
+        "id": "748758994423906354",
+        "name": "NA / EU | oNxaiety"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 112,
+      "timestamp": "2026-02-23T03:46:22.973406",
+      "user": {
+        "id": "1180621788707835994",
+        "name": "!"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 111,
+      "timestamp": "2026-02-23T03:33:45.773945",
+      "user": {
+        "id": "1326769063657078784",
+        "name": "vincass"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 110,
+      "timestamp": "2026-02-23T03:13:45.572731",
+      "user": {
+        "id": "772118817265680395",
+        "name": "Helper | DragonaDeSherk"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 109,
+      "timestamp": "2026-02-23T03:03:34.667443",
+      "user": {
+        "id": "811665078596272159",
+        "name": "Helper | LowKhalih"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 108,
+      "timestamp": "2026-02-23T03:02:52.618526",
+      "user": {
+        "id": "1398768898723282995",
+        "name": "DragoHD"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 107,
+      "timestamp": "2026-02-23T02:18:18.612447",
+      "user": {
+        "id": "1015388131643629668",
+        "name": "Keskloa"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Senior Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "SA | Vayju"
+      }
+    },
+    {
+      "id": 106,
+      "timestamp": "2026-02-21T21:55:54.928897",
+      "user": {
+        "id": "1441248941009145946",
+        "name": "Mod | Sebax"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por hiragaaa._",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 105,
+      "timestamp": "2026-02-18T06:58:42.540854",
+      "user": {
+        "id": "1286491703783592019",
+        "name": "Helper | dereeck"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 104,
+      "timestamp": "2026-02-16T06:23:55.053968",
+      "user": {
+        "id": "811665078596272159",
+        "name": "Lowkhalih"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 103,
+      "timestamp": "2026-02-13T23:30:35.160755",
+      "user": {
+        "id": "1061029076862775407",
+        "name": "RonaldZav"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 102,
+      "timestamp": "2026-02-13T20:40:21.573226",
+      "user": {
+        "id": "1138884625364689037",
+        "name": "■Dyland■"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 101,
+      "timestamp": "2026-02-13T18:14:22.804983",
+      "user": {
+        "id": "772118817265680395",
+        "name": "𝖗𝖔𝖈𝖈𝖗𝖆𝖋𝖙"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 100,
+      "timestamp": "2026-02-13T17:41:59.221108",
+      "user": {
+        "id": "930903582629302332",
+        "name": "Huan62"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 99,
+      "timestamp": "2026-02-10T05:02:20.624028",
+      "user": {
+        "id": "1049336455991918622",
+        "name": "! Stormz 🧸"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 98,
+      "timestamp": "2026-02-09T02:29:45.370720",
+      "user": {
+        "id": "712999145815801912",
+        "name": "NA | Helper | Sypruk"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 97,
+      "timestamp": "2026-02-09T02:22:45.501128",
+      "user": {
+        "id": "1310400701674815550",
+        "name": "SA/NA | Mod | zNotoco_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "🟢 ʀᴇɢᴜʟᴀᴛᴏʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Regulator",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 96,
+      "timestamp": "2026-02-07T05:33:18.410238",
+      "user": {
+        "id": "1267264688832385136",
+        "name": "pikachu_alfa"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 95,
+      "timestamp": "2026-02-06T08:00:48.290353",
+      "user": {
+        "id": "1151676284238315631",
+        "name": "Don Lucho"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 94,
+      "timestamp": "2026-02-05T02:33:08.515731",
+      "user": {
+        "id": "1310400701674815550",
+        "name": "Mod | zNotoco_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 93,
+      "timestamp": "2026-02-04T01:56:21.608761",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
+    {
+      "id": 92,
+      "timestamp": "2026-02-04T01:56:11.489723",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 91,
+      "timestamp": "2026-02-04T01:53:00.947703",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
+    {
+      "id": 90,
+      "timestamp": "2026-02-04T01:51:51.069309",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 89,
+      "timestamp": "2026-02-04T01:47:40.203745",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
+    {
+      "id": 88,
+      "timestamp": "2026-02-04T01:47:12.111638",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 87,
+      "timestamp": "2026-02-04T01:40:25.770751",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
+    {
+      "id": 86,
+      "timestamp": "2026-02-04T01:39:56.976884",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 85,
+      "timestamp": "2026-02-04T01:25:32.023080",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Head Tester",
+      "executor": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      }
+    },
+    {
+      "id": 84,
+      "timestamp": "2026-02-04T01:25:21.180205",
+      "user": {
+        "id": "936042255599415307",
+        "name": "Stiffy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 83,
+      "timestamp": "2026-02-04T01:23:31.845608",
+      "user": {
+        "id": "857272583652769833",
+        "name": "! WRes_"
       },
       "movement": {
         "type": "promote",
@@ -26,11 +1014,752 @@
       }
     },
     {
-      "id": 20,
-      "timestamp": "2026-04-11T19:19:28.951120",
+      "id": 82,
+      "timestamp": "2026-02-03T05:31:04.349608",
       "user": {
-        "id": "1151676284238315631",
-        "name": "thenaaaaaaaa"
+        "id": "1457554149313871912",
+        "name": "oztias"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 81,
+      "timestamp": "2026-02-03T05:29:22.835836",
+      "user": {
+        "id": "1261851689217167422",
+        "name": "NA | ramixfield NO STRAY"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 80,
+      "timestamp": "2026-02-03T05:18:12.492128",
+      "user": {
+        "id": "723034284126109710",
+        "name": "NA | Tvnke / No Blotcraft"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 79,
+      "timestamp": "2026-02-03T05:00:36.798232",
+      "user": {
+        "id": "1310400701674815550",
+        "name": "Helper | zNotoco_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 78,
+      "timestamp": "2026-01-25T21:41:12.827110",
+      "user": {
+        "id": "1189374904953491486",
+        "name": "𝖋𝖗𝖆𝖓𝖘𝖎✞𝖔 fck peru"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 77,
+      "timestamp": "2026-01-24T16:10:06.870558",
+      "user": {
+        "id": "1141815380994707549",
+        "name": "! 𝙏𝙤𝙣𝙮𝙣𝙤𝙝 ✞"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "📹 ꜱᴄʀᴇᴇɴꜱʜᴀʀᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 76,
+      "timestamp": "2026-01-23T19:37:07.558821",
+      "user": {
+        "id": "766048405301887010",
+        "name": "NA | faabula"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 75,
+      "timestamp": "2026-01-23T02:21:08.597430",
+      "user": {
+        "id": "752318683551891557",
+        "name": "Froggo"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 74,
+      "timestamp": "2026-01-23T02:08:54.528954",
+      "user": {
+        "id": "1310400701674815550",
+        "name": "' Pyraa"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 73,
+      "timestamp": "2026-01-23T02:04:51.043484",
+      "user": {
+        "id": "1356672328506933261",
+        "name": "mai"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 72,
+      "timestamp": "2026-01-22T20:20:23.126489",
+      "user": {
+        "id": "1190889955824771134",
+        "name": "Qcu"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 71,
+      "timestamp": "2026-01-22T00:24:05.040057",
+      "user": {
+        "id": "712999145815801912",
+        "name": "NA | Sypruk"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 70,
+      "timestamp": "2026-01-20T04:50:06.126071",
+      "user": {
+        "id": "746838348450103317",
+        "name": "Prwnce"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 69,
+      "timestamp": "2026-01-18T03:54:26.366068",
+      "user": {
+        "id": "1287130730383671388",
+        "name": "EU | qvoh"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 68,
+      "timestamp": "2026-01-17T03:33:49.220376",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Mod | Stylez_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 67,
+      "timestamp": "2026-01-17T02:11:41.003048",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Helper | Stylez_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 66,
+      "timestamp": "2026-01-14T01:51:52.847927",
+      "user": {
+        "id": "1011773389825900665",
+        "name": "NA | Logsinho"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 65,
+      "timestamp": "2026-01-10T01:08:17.345593",
+      "user": {
+        "id": "513195575525638149",
+        "name": "Helper | wave to earth"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 64,
+      "timestamp": "2026-01-06T18:16:05.718642",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Stylezz_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 63,
+      "timestamp": "2026-01-06T18:15:58.151079",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Stylezz_"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 62,
+      "timestamp": "2026-01-06T18:15:49.333766",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Stylezz_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 61,
+      "timestamp": "2026-01-06T18:15:37.253077",
+      "user": {
+        "id": "1417942273081081887",
+        "name": "Stylezz_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 60,
+      "timestamp": "2026-01-06T05:32:57.631240",
+      "user": {
+        "id": "1457554149313871912",
+        "name": "Lucas"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 59,
+      "timestamp": "2026-01-06T05:26:27.381439",
+      "user": {
+        "id": "1441189010671276185",
+        "name": "NA - SA | Tmre"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 58,
+      "timestamp": "2026-01-05T22:46:34.108244",
+      "user": {
+        "id": "826586739862405140",
+        "name": "Mod | mMoti"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 57,
+      "timestamp": "2026-01-05T01:57:11.249874",
+      "user": {
+        "id": "892451118653775872",
+        "name": "EU I Jatho"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 56,
+      "timestamp": "2026-01-03T02:26:20.975461",
+      "user": {
+        "id": "902216787557494834",
+        "name": "Mati"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis | No Tag, Vacations"
+      }
+    },
+    {
+      "id": 55,
+      "timestamp": "2026-01-02T22:40:35.159446",
+      "user": {
+        "id": "902216787557494834",
+        "name": "Mati"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por sr_robinson",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 54,
+      "timestamp": "2026-01-01T02:05:44.720917",
+      "user": {
+        "id": "1356672328506933261",
+        "name": "Soffey"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🟤 ᴀᴅᴍɪɴɪꜱᴛʀᴀᴅᴏʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 53,
+      "timestamp": "2025-12-29T00:49:08.888454",
+      "user": {
+        "id": "1327802828311498783",
+        "name": "aserrt"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 52,
+      "timestamp": "2025-12-26T04:41:15.994966",
+      "user": {
+        "id": "823659261183262730",
+        "name": "Dev | ma abrime porf"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "Staff Member",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por vayju",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 51,
+      "timestamp": "2025-12-26T02:55:16.207088",
+      "user": {
+        "id": "952028006614982706",
+        "name": "@for test NA | zRuss_"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por kryio",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 50,
+      "timestamp": "2025-12-24T08:10:20.411363",
+      "user": {
+        "id": "1078031020630224910",
+        "name": "Andrew"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "📹 ꜱᴄʀᴇᴇɴꜱʜᴀʀᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Screensharer",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 49,
+      "timestamp": "2025-12-24T06:49:48.625041",
+      "user": {
+        "id": "840004496067133490",
+        "name": "NA | PHA"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 48,
+      "timestamp": "2025-12-24T06:47:03.733861",
+      "user": {
+        "id": "447100605106749440",
+        "name": "! Korthz"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 47,
+      "timestamp": "2025-12-24T06:14:59.324862",
+      "user": {
+        "id": "757971997354623127",
+        "name": "u"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 46,
+      "timestamp": "2025-12-23T02:28:32.119213",
+      "user": {
+        "id": "1057428250961399808",
+        "name": "Yope"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "Staff Member",
+        "new_role": "Senior Tester"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
+      "executor": {
+        "id": "system",
+        "name": "Sistema"
+      }
+    },
+    {
+      "id": 45,
+      "timestamp": "2025-12-22T19:04:29.598131",
+      "user": {
+        "id": "952028006614982706",
+        "name": "@for test NA | zRuss_"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Senior Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 44,
+      "timestamp": "2025-12-22T17:32:14.576233",
+      "user": {
+        "id": "1008163311306670112",
+        "name": "gnarled"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 43,
+      "timestamp": "2025-12-22T06:00:24.840778",
+      "user": {
+        "id": "1008163311306670112",
+        "name": "gnarled"
       },
       "movement": {
         "type": "promote",
@@ -40,130 +1769,567 @@
       "modality": "vanilla",
       "reason": "Promote manual a Helper",
       "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis @ For Help"
+      }
+    },
+    {
+      "id": 42,
+      "timestamp": "2025-12-22T03:26:32.893094",
+      "user": {
+        "id": "757971997354623127",
+        "name": "u"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis @ For Help"
+      }
+    },
+    {
+      "id": 41,
+      "timestamp": "2025-12-22T03:10:12.679810",
+      "user": {
+        "id": "1391240336122056847",
+        "name": "zSxvn"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis @ For Help"
+      }
+    },
+    {
+      "id": 40,
+      "timestamp": "2025-12-21T23:50:14.053230",
+      "user": {
+        "id": "1078031020630224910",
+        "name": "NA | 7zql1k"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "👑 ʜᴇᴀᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis @ For Help"
+      }
+    },
+    {
+      "id": 39,
+      "timestamp": "2025-12-19T22:14:41.638127",
+      "user": {
+        "id": "1078031020630224910",
+        "name": "NA | 7zql1k"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "📹 ꜱᴄʀᴇᴇɴꜱʜᴀʀᴇʀ",
+        "new_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Senior Tester",
+      "executor": {
         "id": "834555196541108246",
         "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 38,
+      "timestamp": "2025-12-15T22:35:05.883377",
+      "user": {
+        "id": "1286491703783592019",
+        "name": "dereeck"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 37,
+      "timestamp": "2025-12-15T17:25:46.393540",
+      "user": {
+        "id": "513195575525638149",
+        "name": "rse"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 36,
+      "timestamp": "2025-12-13T18:15:48.303523",
+      "user": {
+        "id": "1189374904953491486",
+        "name": "𝖋𝖗𝖆𝖓𝖘𝖎✞𝖔"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 35,
+      "timestamp": "2025-12-13T16:33:22.608499",
+      "user": {
+        "id": "1191393464349372540",
+        "name": "Mod | zh2"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 34,
+      "timestamp": "2025-12-13T01:19:06.880500",
+      "user": {
+        "id": "1015388131643629668",
+        "name": "Keskloa"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 33,
+      "timestamp": "2025-12-10T08:53:09.866043",
+      "user": {
+        "id": "712999145815801912",
+        "name": "Prodigio"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 32,
+      "timestamp": "2025-12-10T08:52:13.390294",
+      "user": {
+        "id": "748758994423906354",
+        "name": "swkqr"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 31,
+      "timestamp": "2025-12-09T18:07:01.059429",
+      "user": {
+        "id": "1404224305373384765",
+        "name": "SA/NA | FelixGodd"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 30,
+      "timestamp": "2025-12-08T19:18:24.765329",
+      "user": {
+        "id": "1171647808605003816",
+        "name": "Pxrgz"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 29,
+      "timestamp": "2025-12-08T19:16:28.979338",
+      "user": {
+        "id": "1327802828311498783",
+        "name": "aserrt :3 / Reinsertada"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 28,
+      "timestamp": "2025-12-08T18:56:47.759505",
+      "user": {
+        "id": "1191393464349372540",
+        "name": "zh2"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 27,
+      "timestamp": "2025-12-08T03:41:45.605695",
+      "user": {
+        "id": "1021609727953752074",
+        "name": "!?"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "SA | Bigcuts"
+      }
+    },
+    {
+      "id": 26,
+      "timestamp": "2025-12-05T22:02:49.506616",
+      "user": {
+        "id": "840004496067133490",
+        "name": "NA | PHA"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
+      }
+    },
+    {
+      "id": 25,
+      "timestamp": "2025-12-05T19:18:37.818627",
+      "user": {
+        "id": "1441189010671276185",
+        "name": "Lucas"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
+      }
+    },
+    {
+      "id": 24,
+      "timestamp": "2025-12-05T16:41:03.171344",
+      "user": {
+        "id": "1011773389825900665",
+        "name": "Log"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
+      }
+    },
+    {
+      "id": 23,
+      "timestamp": "2025-12-05T16:40:19.781692",
+      "user": {
+        "id": "1310400701674815550",
+        "name": "zgmmmxs"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
+      }
+    },
+    {
+      "id": 22,
+      "timestamp": "2025-12-05T02:00:01.685509",
+      "user": {
+        "id": "1441248941009145946",
+        "name": "✘"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
+      }
+    },
+    {
+      "id": 21,
+      "timestamp": "2025-12-05T01:59:39.097683",
+      "user": {
+        "id": "1441248941009145946",
+        "name": "✘"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 20,
+      "timestamp": "2025-12-05T01:58:02.506422",
+      "user": {
+        "id": "1441248941009145946",
+        "name": "✘"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
       }
     },
     {
       "id": 19,
-      "timestamp": "2026-04-08T02:58:25.015945",
+      "timestamp": "2025-12-05T01:57:45.668882",
       "user": {
-        "id": "834895377755799572",
-        "name": "skeletromyt 💤"
+        "id": "1441248941009145946",
+        "name": "✘"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "vanilla",
+      "modality": "netherite_pot",
       "reason": "Promote manual a Verified Tester",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
       }
     },
     {
       "id": 18,
-      "timestamp": "2026-04-08T02:42:51.654980",
+      "timestamp": "2025-12-04T22:21:53.490249",
       "user": {
-        "id": "1230637853281619968",
-        "name": "wossyto"
+        "id": "716437325260783747",
+        "name": "Israelinho"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "vanilla",
+      "modality": "netherite_pot",
       "reason": "Promote manual a Verified Tester",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
       }
     },
     {
       "id": 17,
-      "timestamp": "2026-04-08T02:38:30.404394",
+      "timestamp": "2025-12-04T21:04:47.925266",
       "user": {
-        "id": "1194741797012910085",
-        "name": "𝓡𝓸𝓵𝓲𝔁𝓓𝓮𝔂"
+        "id": "981012292202287165",
+        "name": "SA/NA | Icelow_190ms GOAT"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "vanilla",
-      "reason": "Promote manual a Verified Tester",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
       "id": 16,
-      "timestamp": "2026-04-08T02:32:17.745988",
+      "timestamp": "2025-12-04T20:59:53.285037",
       "user": {
-        "id": "1086117252455207014",
-        "name": "Tu putopadre"
+        "id": "1241523227742830635",
+        "name": "SA | iFortrex"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "vanilla",
-      "reason": "Promote manual a Verified Tester",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
       "executor": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
       "id": 15,
-      "timestamp": "2026-04-07T03:10:47.794921",
+      "timestamp": "2025-12-04T20:58:04.322258",
       "user": {
-        "id": "1051620807517945907",
-        "name": "Andres"
+        "id": "945135590049984535",
+        "name": "KingFachy"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por bigcuts",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
+    {
+      "id": 14,
+      "timestamp": "2025-12-04T03:23:34.694084",
+      "user": {
+        "id": "1232054387564875791",
+        "name": "qShellya"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
       },
-      "modality": "vanilla",
-      "reason": "Promote manual a Verified Tester",
+      "modality": "netherite_pot",
+      "reason": "Promote manual a Discord Mod",
       "executor": {
         "id": "834555196541108246",
         "name": "AtKyrie"
       }
     },
     {
-      "id": 14,
-      "timestamp": "2026-03-22T23:17:36.685931",
-      "user": {
-        "id": "1330920293325344821",
-        "name": "ColdyXT"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
-      },
-      "modality": "sword",
-      "reason": "Promote manual a Verified Tester",
-      "executor": {
-        "id": "1151676284238315631",
-        "name": "@ for post/questions"
-      }
-    },
-    {
       "id": 13,
-      "timestamp": "2025-10-30T19:59:06.969927",
+      "timestamp": "2025-12-03T22:55:29.166151",
       "user": {
-        "id": "1044342667091394580",
-        "name": "14 - 14"
+        "id": "737430159484780656",
+        "name": "lr"
       },
       "movement": {
         "type": "promote",
@@ -179,94 +2345,94 @@
     },
     {
       "id": 12,
-      "timestamp": "2025-10-25T23:19:08.429859",
+      "timestamp": "2025-12-03T02:41:12.731098",
       "user": {
-        "id": "840004496067133490",
-        "name": "NA | PHA"
+        "id": "927426859266867231",
+        "name": "ᴊᴇꜰꜰᴇʀ"
       },
       "movement": {
-        "type": "demote",
-        "old_role": "ꜱᴇɴɪᴏʀ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
       },
       "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "reason": "Promote manual a Discord Mod",
       "executor": {
-        "id": "System",
-        "name": "AutoDemote"
+        "id": "1311116434604294244",
+        "name": "Bigcuts"
       }
     },
     {
       "id": 11,
-      "timestamp": "2025-10-25T20:05:20.248496",
+      "timestamp": "2025-11-23T22:54:47.568565",
       "user": {
-        "id": "1418836026381832233",
-        "name": "PerfumeArabe"
+        "id": "1232054387564875791",
+        "name": "kryio | @ for help"
       },
       "movement": {
-        "type": "demote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "modality": "vanilla",
+      "reason": "Promote manual a Discord Mod",
       "executor": {
-        "id": "System",
-        "name": "AutoDemote"
+        "id": "834555196541108246",
+        "name": "AtKyrie"
       }
     },
     {
       "id": 10,
-      "timestamp": "2025-10-25T20:03:02.325120",
+      "timestamp": "2025-11-22T03:22:22.764860",
       "user": {
-        "id": "1270951967895588884",
-        "name": "zTuss1ad1to (ONLY SA)"
+        "id": "1391419977977827328",
+        "name": "Sung Il-Hwan"
       },
       "movement": {
-        "type": "demote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
       "executor": {
-        "id": "System",
-        "name": "AutoDemote"
+        "id": "834555196541108246",
+        "name": "AtKyrie"
       }
     },
     {
       "id": 9,
-      "timestamp": "2025-10-25T20:00:48.586217",
+      "timestamp": "2025-11-22T02:36:49.212201",
       "user": {
-        "id": "842936345479610389",
-        "name": "NA | Versate | No Stray"
+        "id": "952028006614982706",
+        "name": "᲼"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": "2025-11-19T02:11:34.098046",
+      "user": {
+        "id": "1389049520704327901",
+        "name": "Haze  | @ For Help"
       },
       "movement": {
         "type": "demote",
         "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
-      }
-    },
-    {
-      "id": 8,
-      "timestamp": "2025-10-25T19:57:52.530577",
-      "user": {
-        "id": "755600178584485990",
-        "name": "NA | Madethunder"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por bigcuts",
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
       "executor": {
         "id": "System",
         "name": "AutoDemote"
@@ -274,52 +2440,71 @@
     },
     {
       "id": 7,
-      "timestamp": "2025-10-25T17:15:26.986816",
+      "timestamp": "2025-11-19T01:56:52.849897",
       "user": {
-        "id": "981012292202287165",
-        "name": "icelow"
+        "id": "1389049520704327901",
+        "name": "Haze  | @ For Help"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "Staff Member",
+        "new_role": "Verified Tester"
+      },
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
+      "executor": {
+        "id": "system",
+        "name": "Sistema"
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-11-18T01:05:25.824431",
+      "user": {
+        "id": "1346641268867858452",
+        "name": "Aqua"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "netherite_pot",
+      "modality": "vanilla",
       "reason": "Promote manual a Verified Tester",
       "executor": {
-        "id": "1311116434604294244",
-        "name": "Bigcuts"
-      }
-    },
-    {
-      "id": 6,
-      "timestamp": "2025-10-25T13:55:15.393405",
-      "user": {
-        "id": "1423740681758965830",
-        "name": "𝐇𝐚𝐢𝐬𝐞"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
-      },
-      "modality": "netherite_pot",
-      "reason": "Promote manual a Helper",
-      "executor": {
-        "id": "1311116434604294244",
-        "name": "Bigcuts"
+        "id": "834555196541108246",
+        "name": "AtKyrie"
       }
     },
     {
       "id": 5,
-      "timestamp": "2025-10-24T23:31:32.427298",
+      "timestamp": "2025-11-16T18:44:16.794178",
       "user": {
-        "id": "1325575871808933898",
-        "name": "Helper | Eduar"
+        "id": "892451118653775872",
+        "name": "jatho"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "834555196541108246",
+        "name": "AtKyrie"
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": "2025-11-15T20:36:42.770738",
+      "user": {
+        "id": "1346958255800320071",
+        "name": "Mod | Vit4m1na"
       },
       "movement": {
         "type": "demote",
-        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
       "modality": "netherite_pot",
@@ -330,79 +2515,60 @@
       }
     },
     {
-      "id": 4,
-      "timestamp": "2025-10-23T02:13:32.864917",
-      "user": {
-        "id": "1343637414023004220",
-        "name": "Helper | @for help"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
-      },
-      "modality": "netherite_pot",
-      "reason": "Promote manual a Verified Tester",
-      "executor": {
-        "id": "1311116434604294244",
-        "name": "Bigcuts"
-      }
-    },
-    {
       "id": 3,
-      "timestamp": "2025-10-11T17:52:26.146065",
+      "timestamp": "2025-11-15T20:17:57.312359",
       "user": {
-        "id": "826586739862405140",
-        "name": "Mod | mMoti"
+        "id": "1389049520704327901",
+        "name": ".gg/vanillatiers vanillaprac.org"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Promote manual a Discord Mod",
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
       "executor": {
-        "id": "823659261183262730",
-        "name": "Dev | Ma abrime porfa"
+        "id": "834555196541108246",
+        "name": "AtKyrie"
       }
     },
     {
       "id": 2,
-      "timestamp": "2025-10-11T17:52:21.570303",
+      "timestamp": "2025-11-10T19:15:46.722925",
       "user": {
-        "id": "826586739862405140",
-        "name": "Mod | mMoti"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "netherite_pot",
-      "reason": "Degradación manual por vayju",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
-      }
-    },
-    {
-      "id": 1,
-      "timestamp": "2025-10-11T17:12:35.078287",
-      "user": {
-        "id": "826586739862405140",
-        "name": "Mod | mMoti"
+        "id": "1280101198040662028",
+        "name": "!"
       },
       "movement": {
         "type": "promote",
         "old_role": "ᴍᴇᴍʙᴇʀ",
         "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
       },
-      "modality": "netherite_pot",
-      "reason": "Promote manual a Discord Mod",
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
       "executor": {
-        "id": "823659261183262730",
-        "name": "Dev | Ma abrime porfa"
+        "id": "1311116434604294244",
+        "name": "!Bigcuts"
+      }
+    },
+    {
+      "id": 1,
+      "timestamp": "2025-11-10T19:14:54.056927",
+      "user": {
+        "id": "1327802828311498783",
+        "name": "Mod | aserrt"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
+        "new_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Promote manual a Verified Tester",
+      "executor": {
+        "id": "1311116434604294244",
+        "name": "!Bigcuts"
       }
     }
   ]
