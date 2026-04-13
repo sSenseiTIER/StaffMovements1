@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-04-12T23:41:36.970873",
-    "total_movements": 137
+    "last_updated": "2026-04-13T00:10:10.672605",
+    "total_movements": 138
   },
   "movements": [
+    {
+      "id": 138,
+      "timestamp": "2026-04-13T00:10:10.672580",
+      "user": {
+        "id": "1008921043479568424",
+        "name": "NA | Nesquik"
+      },
+      "movement": {
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
+      },
+      "modality": "sword",
+      "reason": "Degradación manual por thenaaaaaaaa",
+      "executor": {
+        "id": "System",
+        "name": "AutoDemote"
+      }
+    },
     {
       "id": 137,
       "timestamp": "2026-04-12T23:41:36.970857",
