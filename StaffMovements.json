@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-04-15T01:37:27.604492",
-    "total_movements": 138
+    "last_updated": "2026-04-15T02:45:06.283577",
+    "total_movements": 139
   },
   "movements": [
+    {
+      "id": 139,
+      "timestamp": "2026-04-15T02:45:06.283559",
+      "user": {
+        "id": "1370895496134131834",
+        "name": "fix"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Helper",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis"
+      }
+    },
     {
       "id": 138,
       "timestamp": "2026-04-15T01:37:27.604478",
