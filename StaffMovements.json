@@ -2,24 +2,24 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-04-13T00:10:10.672605",
+    "last_updated": "2026-04-15T01:37:27.604492",
     "total_movements": 138
   },
   "movements": [
     {
       "id": 138,
-      "timestamp": "2026-04-13T00:10:10.672580",
+      "timestamp": "2026-04-15T01:37:27.604478",
       "user": {
-        "id": "1008921043479568424",
-        "name": "NA | Nesquik"
+        "id": "834555196541108246",
+        "name": "AtKyrie"
       },
       "movement": {
         "type": "demote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "old_role": "🟡 ᴍᴀɴᴀɢᴇʀ",
         "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "sword",
-      "reason": "Degradación manual por thenaaaaaaaa",
+      "modality": "vanilla",
+      "reason": "Degradación manual por tiliwilis",
       "executor": {
         "id": "System",
         "name": "AutoDemote"
@@ -27,21 +27,21 @@
     },
     {
       "id": 137,
-      "timestamp": "2026-04-12T23:41:36.970857",
+      "timestamp": "2026-04-12T15:22:24.809191",
       "user": {
-        "id": "1448854195942850617",
-        "name": "."
+        "id": "1151676284238315631",
+        "name": "@ for all"
       },
       "movement": {
-        "type": "demote",
-        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
+        "type": "promote",
+        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
       },
-      "modality": "sword",
-      "reason": "Degradación manual por thenaaaaaaaa",
+      "modality": "vanilla",
+      "reason": "Promote manual a Discord Mod",
       "executor": {
-        "id": "System",
-        "name": "AutoDemote"
+        "id": "796531919294169088",
+        "name": "Paulo."
       }
     },
     {
