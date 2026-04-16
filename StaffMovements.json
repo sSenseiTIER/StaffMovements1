@@ -2,103 +2,27 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-11-10T18:58:42.834633",
-    "last_updated": "2026-04-15T16:39:13.729044",
-    "total_movements": 141
+    "last_updated": "2026-04-16T17:40:23.571629",
+    "total_movements": 137
   },
   "movements": [
     {
-      "id": 141,
-      "timestamp": "2026-04-15T16:39:13.729027",
-      "user": {
-        "id": "1078031020630224910",
-        "name": "Andrew"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Discord Mod",
-      "executor": {
-        "id": "1068594443441164328",
-        "name": "Tiliwilis"
-      }
-    },
-    {
-      "id": 140,
-      "timestamp": "2026-04-15T02:47:06.352897",
-      "user": {
-        "id": "1078031020630224910",
-        "name": "Andrew"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Degradación manual por tiliwilis",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
-      }
-    },
-    {
-      "id": 139,
-      "timestamp": "2026-04-15T02:45:06.283559",
-      "user": {
-        "id": "1370895496134131834",
-        "name": "fix"
-      },
-      "movement": {
-        "type": "promote",
-        "old_role": "ᴍᴇᴍʙᴇʀ",
-        "new_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Promote manual a Helper",
-      "executor": {
-        "id": "1068594443441164328",
-        "name": "Tiliwilis"
-      }
-    },
-    {
-      "id": 138,
-      "timestamp": "2026-04-15T01:37:27.604478",
-      "user": {
-        "id": "834555196541108246",
-        "name": "AtKyrie"
-      },
-      "movement": {
-        "type": "demote",
-        "old_role": "🟡 ᴍᴀɴᴀɢᴇʀ",
-        "new_role": "ᴍᴇᴍʙᴇʀ"
-      },
-      "modality": "vanilla",
-      "reason": "Degradación manual por tiliwilis",
-      "executor": {
-        "id": "System",
-        "name": "AutoDemote"
-      }
-    },
-    {
       "id": 137,
-      "timestamp": "2026-04-12T15:22:24.809191",
+      "timestamp": "2026-04-16T17:40:23.571601",
       "user": {
-        "id": "1151676284238315631",
-        "name": "@ for all"
+        "id": "1267264688832385136",
+        "name": "SA/NA | pikachu_alfaa"
       },
       "movement": {
-        "type": "promote",
-        "old_role": "ᴅɪꜱᴄᴏʀᴅ ʜᴇʟᴘᴇʀ",
-        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+        "type": "demote",
+        "old_role": "ᴠᴇʀɪꜰɪᴇᴅ ᴛᴇꜱᴛᴇʀ",
+        "new_role": "ᴍᴇᴍʙᴇʀ"
       },
-      "modality": "vanilla",
-      "reason": "Promote manual a Discord Mod",
+      "modality": "netherite_pot",
+      "reason": "Degradación manual por vayju",
       "executor": {
-        "id": "796531919294169088",
-        "name": "Paulo."
+        "id": "System",
+        "name": "AutoDemote"
       }
     },
     {
