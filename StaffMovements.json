@@ -2,10 +2,29 @@
   "metadata": {
     "version": "1.0.0",
     "created_at": "2025-10-11T17:07:47.530162",
-    "last_updated": "2026-04-17T22:05:34.894067",
-    "total_movements": 14
+    "last_updated": "2026-04-18T23:44:28.189655",
+    "total_movements": 15
   },
   "movements": [
+    {
+      "id": 15,
+      "timestamp": "2026-04-18T23:44:28.189632",
+      "user": {
+        "id": "1330954355062345808",
+        "name": "VØID REAPER"
+      },
+      "movement": {
+        "type": "promote",
+        "old_role": "ᴍᴇᴍʙᴇʀ",
+        "new_role": "🔵 ᴅɪꜱᴄᴏʀᴅ ᴍᴏᴅ"
+      },
+      "modality": "vanilla",
+      "reason": "Promote manual a Discord Mod",
+      "executor": {
+        "id": "1068594443441164328",
+        "name": "Tiliwilis"
+      }
+    },
     {
       "id": 14,
       "timestamp": "2026-04-17T22:05:34.894050",
